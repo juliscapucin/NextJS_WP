@@ -1,0 +1,7 @@
+@import "./variables";
+
+.mainContainer {
+  @extend %padding-all;
+  @extend %max-width;
+  margin: auto;
+}
